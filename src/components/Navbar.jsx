@@ -66,7 +66,7 @@ const Navbar = () => {
                             Login
                         </a>
                         <button className='bg-brandPrimary text-white py-2 px-4 transition-all duration-300 rounded-[2px] hover:bg-neutralDGrey flex items-center gap-2 '>
-                            Register Now
+                            Register now
                             <span><img src={Arrow} alt='arrow' /></span>
                         </button>
                         </div>   
