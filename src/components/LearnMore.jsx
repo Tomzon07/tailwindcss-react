@@ -1,10 +1,6 @@
 import img from "../assets/pana.png";
 import tesla from "../assets/tesla.png";
 import React from "react";
-import img2 from "../assets/about1.png";
-import img3 from "../assets/icons/section1.png";
-import img4 from "../assets/icons/section2.png";
-import img5 from "../assets/icons/section3.png";
 // import img6 from "../assets/icons/section4.png";
 
 const LearnMore = () => {

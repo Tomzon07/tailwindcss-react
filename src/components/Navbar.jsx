@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import logo from "../assets/Icon.svg";
 import { FaXmark } from "react-icons/fa6";
 import { FaBars } from "react-icons/fa";
-import { FaLongArrowAltRight } from "react-icons/fa";
 import { Link, animateScroll as scroll } from "react-scroll";
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -50,7 +49,7 @@ const Navbar = () => {
               src={logo}
               className="w-10 inline-block items-center"
             />
-            <span className="text-[#263238]">NEXCENT</span>
+            <span className="text-[#263238]">TMZN</span>
           </a>
           {/* nav items for large devices*/}
           <ul className=" md:flex space-x-12 hidden">

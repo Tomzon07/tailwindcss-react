@@ -32,8 +32,7 @@ const Home = () => {
           </div>
           <div
             className="my-28 md:my-8 py-12 flex flex-col   
-            md:flex-row-reverse items-center justify-between gap-12
-        "
+            md:flex-row-reverse items-center justify-between gap-12"
           >
             <div>
               <img

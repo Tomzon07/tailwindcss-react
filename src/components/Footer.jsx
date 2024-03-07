@@ -20,7 +20,7 @@ const Footers = () => {
               src={logo}
               className="w-10 inline-block items-center"
             />
-            <span className="text-[#263238]">NEXCENT</span>
+            <span className="text-[#263238]">TMZN</span>
           </a>
           </div>
           <div className="grid grid-cols-2 gap-8 sm:mt-4 sm:grid-cols-3 sm:gap-6">
@@ -49,7 +49,7 @@ const Footers = () => {
         </div>
         <Footer.Divider />
         <div className="w-full sm:flex sm:items-center sm:justify-between">
-          <Footer.Copyright href="#" by="Nexcent™" year={2024} />
+          <Footer.Copyright href="#" by="TMZN" year={2024} />
           <div className="mt-4 flex space-x-6 sm:mt-0 sm:justify-center">
             <Footer.Icon href="#" icon={BsFacebook} />
             <Footer.Icon href="#" icon={BsInstagram} />
